@@ -58,11 +58,8 @@ streamlit run streamFile.py
 
 ## 📸 Screenshots
 
-> You can upload screenshots here showing:
-> - The main interface
-> - Sentiment pie chart
-> - Word cloud
-> - Product ratings chart
+![Preview](https://github.com/mbalbaid7/anti-aging-review-analysis/tree/main/Anti_Aging_Analyzer.png?raw=true)
+
 
 ## 🔗 Author
 
