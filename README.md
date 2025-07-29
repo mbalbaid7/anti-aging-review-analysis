@@ -66,8 +66,8 @@ streamlit run streamFile.py
 
 ## 🔗 Author
 
-Created by [Your Name]  
-GitHub: https://github.com/YOUR_USERNAME
+Created by [Maryam Balbaid]  
+GitHub: https://github.com/mbalbaid7
 
 ---
 
